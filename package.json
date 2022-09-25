@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Ciza wells",
+  "description": "Wells description",
   "dependencies": {
     "express": "^4.14.0"
   },
